@@ -1,9 +1,9 @@
 [![@mkk's Holopin board](https://holopin.me/mkk)](https://holopin.io/@mkk)
 
-- 👋 Hi, I’m @mk-8
+- 👋 Hi, I’m Meet Kavathiya
 - 👀 I’m interested in new technologies powering the world
-- 🌱 I’m currently learning Computer Science @Pandit Deendayal Energy University
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 🌱 I’m currently pursuing my Masters from University of Southern California in Computer Science
+- 💞️ I’m looking to collaborate on Machine Learning and AI Projects
 - 📫 You can reach to me via E-mail:- 88.blue.pro@gmail.com
 
 
