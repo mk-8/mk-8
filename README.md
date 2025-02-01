@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Meet Kavathiya
 - 👀 I’m interested in new technologies powering the world
-- 🌱 I’m currently pursuing my Masters from University of Southern California in Computer Science
+- 🌱 I’m currently pursuing my Master of Science in Computer Science from University of Southern California 
 - 💞️ I’m looking to collaborate on Machine Learning and AI Projects
 - 📫 You can reach to me via E-mail:- meetk@duck.com
   
