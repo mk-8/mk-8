@@ -4,7 +4,7 @@
 - 👀 I’m interested in new technologies powering the world
 - 🌱 I’m currently pursuing my Master of Science in Computer Science from University of Southern California 
 - 💞️ I’m looking to collaborate on Machine Learning and AI Projects
-- 📫 You can reach to me via E-mail:- meetk@duck.com
+- 📫 You can reach to me via E-mail:- kavathiy[at]usc[.]edu
   
 
 
