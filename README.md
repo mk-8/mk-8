@@ -17,7 +17,6 @@
 - 🌱 Pursuing **M.S. in Computer Science** at the **University of Southern California**
 - 💡 Interested in **Machine Learning**, **AI**, and **Cloud Computing**
 - 💞️ Looking to collaborate on **AI & ML projects**
-- 📫 Reach me: **kavathiy[at]usc[.]edu**
 
 ---
 
