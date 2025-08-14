@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Kanaiyalal Kavathiya</h1>
-<h3 align="center">Master's Student in Computer Science @ USC | AWS Certified | Aspiring Software Engineer</h3>
+<h3 align="center">Master's Student in Computer Science @ University of Southern California | AWS Certified </h3>
 
 <p align="center">
   <a href="https://www.credly.com/badges/4142ee77-8a78-4a0d-9d61-741ba225ff09">
