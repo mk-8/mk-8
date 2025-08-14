@@ -1,11 +1,43 @@
 [![@mkk's Holopin board](https://holopin.me/mkk)](https://holopin.io/@mkk)
 
-- 👋 Hi, I’m Meet Kavathiya
-- 👀 I’m interested in new technologies powering the world
-- 🌱 I’m currently pursuing my Master of Science in Computer Science from University of Southern California 
-- 💞️ I’m looking to collaborate on Machine Learning and AI Projects
-- 📫 You can reach to me via E-mail:- kavathiy[at]usc[.]edu
-  
+<h1 align="center">Hi 👋, I'm Meet Kavathiya</h1>
+<h3 align="center">Master's Student in Computer Science @ USC | AWS Certified | Aspiring Software Engineer</h3>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/4142ee77-8a78-4a0d-9d61-741ba225ff09">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect – Associate" />
+  </a>
+  <a href="https://www.credly.com/badges//f4ef3adc-782a-4134-ae26-5b95e1ed290b">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" />
+  </a>
+</p>
+
+---
+
+### 🌟 About Me
+- 👀 Passionate about **new technologies powering the world**
+- 🌱 Pursuing **M.S. in Computer Science** at the **University of Southern California**
+- 💡 Interested in **Machine Learning**, **AI**, and **Cloud Computing**
+- 💞️ Looking to collaborate on **AI & ML projects**
+- 📫 Reach me: **kavathiy[at]usc[.]edu**
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:kavathiy@usc.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/meet-kavathiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 💡 Fun Fact
+I love building **scalable AI-powered solutions** that run seamlessly in the cloud 🚀
+
 
 
 
