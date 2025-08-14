@@ -1,4 +1,4 @@
-[![@mkk's Holopin board](https://holopin.me/mkk)](https://holopin.io/@mkk)
+    <!-- [![@mkk's Holopin board](https://holopin.me/mkk)](https://holopin.io/@mkk) -->
 
 <h1 align="center">Hi 👋, I'm Meet Kavathiya</h1>
 <h3 align="center">Master's Student in Computer Science @ USC | AWS Certified | Aspiring Software Engineer</h3>
